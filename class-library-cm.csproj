@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>class_library_cm</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Career Marketplace Class Library</Title>
+    <Authors>Shea Dougherty-Gill</Authors>
+    <Company>GCXChange</Company>
+    <Description>A class library for career marketplace on GCXChange.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/gcxchange-gcechange/class-library-cm</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>gcx, gce, career marketplace</PackageTags>
+  </PropertyGroup>
+
+</Project>

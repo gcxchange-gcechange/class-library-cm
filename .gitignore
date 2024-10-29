@@ -1,0 +1,80 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Visual Studio cache and settings
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Dotnet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Environment files
+.env
+.env.*
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# Resharper
+*.DotSettings.user
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+~$*
+
+# Coverage results
+TestResults/
+*.coverage
+*.coveragexml
+*.codecov
+
+# Dependency folders
+node_modules/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# VS Code extensions and settings
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+
+# Tooling cache
+tools/
+
+# Local history for JetBrains IDEs
+.idea/**/LocalHistory/
