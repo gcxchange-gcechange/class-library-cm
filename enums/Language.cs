@@ -1,4 +1,4 @@
-﻿namespace class_library_cm.enums
+﻿namespace CareerMarketplace
 {
     public enum Language
     {

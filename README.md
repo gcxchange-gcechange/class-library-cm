@@ -6,4 +6,4 @@ Class library for Career Marketplace on GCXChange.
 To include this class library in your project, use the following:
 
 ```bash
-dotnet add package class-library-cm
+dotnet add package CareerMarketplace

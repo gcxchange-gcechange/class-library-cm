@@ -2,18 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>class_library_cm</RootNamespace>
+    <RootNamespace>CareerMarketplace</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Title>Career Marketplace Class Library</Title>
+    <Title>Career Marketplace</Title>
     <Authors>Shea Dougherty-Gill</Authors>
-    <Company>GCXChange</Company>
+    <Company>Treasury Board of Canada Secretariat</Company>
     <Description>A class library for career marketplace on GCXChange.</Description>
     <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl>https://github.com/gcxchange-gcechange/class-library-cm</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>gcx, gce, career marketplace</PackageTags>
+    <AssemblyName>CareerMarketplace</AssemblyName>
+    <Product>GCXChange</Product>
   </PropertyGroup>
 
 </Project>
